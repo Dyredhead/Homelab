@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-05T15:17:47.456Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.9.3 Safari/537.36" etag="K2EKfbZ3ZOZDRhTJG7r9" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-05T22:44:06.628Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.9.3 Safari/537.36" etag="nXBVFhu7nulGZ2wKfmE9" version="22.0.3" type="device">
   <diagram name="Page-1" id="xTxtu6eeksrXppuyStMy">
-    <mxGraphModel dx="989" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,8 @@
         <mxCell id="HipKkYMY8DTguzKFv34O-125" value="STORAGE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="16.490000000000002" y="845" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HipKkYMY8DTguzKFv34O-128" value="APPLICATIONS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="12.79" y="1204" width="110" height="30" as="geometry" />
+        <mxCell id="HipKkYMY8DTguzKFv34O-128" value="Services" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="12.79" y="1204" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HipKkYMY8DTguzKFv34O-129" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PGxpbmVhckdyYWRpZW50IHkyPSI0MzYuMDkiIHkxPSIyMTMuMyIgeDI9IjQ5Ni4xNCIgeDE9IjExMC4yNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGlkPSJhIj48c3RvcCBzdG9wLWNvbG9yPSIjYWE1Y2MzIiBvZmZzZXQ9IjAiLz48c3RvcCBzdG9wLWNvbG9yPSIjMDBhNGRjIiBvZmZzZXQ9IjEiLz48L2xpbmVhckdyYWRpZW50PjxnIGZpbGw9InVybCgjYSkiPjxwYXRoIGQ9Im0yNTYgMjAxLjZjLTIwLjQgMC04Ni4yIDExOS4zLTc2LjIgMTM5LjRzMTQyLjUgMTkuOSAxNTIuNCAwLTU1LjctMTM5LjQtNzYuMi0xMzkuNHoiLz48cGF0aCBkPSJtMjU2IDIzLjNjLTYxLjYgMC0yNTkuOCAzNTkuNC0yMjkuNiA0MjAuMXM0MjkuMyA2MCA0NTkuMiAwLTE2OC00MjAuMS0yMjkuNi00MjAuMXptMTUwLjUgMzY3LjVjLTE5LjYgMzkuMy0yODEuMSAzOS44LTMwMC45IDBzMTEwLjEtMjc1LjMgMTUwLjQtMjc1LjMgMTcwLjEgMjM1LjkgMTUwLjUgMjc1LjN6Ii8+PC9nPjwvc3ZnPg==;" parent="1" vertex="1">
           <mxGeometry x="444.0400000000001" y="1277.24" width="42" height="42" as="geometry" />
